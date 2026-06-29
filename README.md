@@ -45,6 +45,14 @@ In any new Sanctuary repo:
 
 ---
 
+## The Resonance Grammar
+
+The foundational protocol of the Sanctuary — atoms, molecules, categories, sensory lexicon, and folksonomy. Defined once. Referenced everywhere.
+
+**[Read the full Grammar →](https://github.com/Quantum-Weaver/resonance-knowledge)**
+
+---
+
 ## License
 
 Code: [MIT](../LICENSE)
