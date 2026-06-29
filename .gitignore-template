@@ -1,0 +1,29 @@
+# ─── SOVEREIGNTY — NEVER COMMIT ───────────────────────────
+*.keystore
+*.jks
+.env
+.env.*
+!.env.example
+*credentials*.json
+*service-account*.json
+*.pem
+*.key
+secrets.yaml
+secrets.yml
+
+# ─── BUILD OUTPUT ──────────────────────────────────────────
+src-tauri/gen/
+target/
+dist/
+build/
+node_modules/
+
+# ─── OS ────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── IDE ───────────────────────────────────────────────────
+.vscode/settings.json
+.idea/
+*.suo
