@@ -24,3 +24,4 @@ src-tauri/gen/
 helper.md
 generate_blueprint.py
 reports/
+target/
